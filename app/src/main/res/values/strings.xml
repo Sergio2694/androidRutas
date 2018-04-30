@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="title_activity_rutas">Rutas</string>
+
+    <string-array name="Precio">
+        <item> Precio </item>
+        <item>0 a 25000</item>
+        <item> 26000 a 50000 </item>
+        <item> 51000 a 100000</item>
+        <item>Más de 100000</item>
+
+    </string-array>
+
+    <string-array name="Tipo_Turista">
+        <item> Tipo de Turista </item>
+        <item> Aventurero </item>
+        <item> Cultural </item>
+        <item> Gastronómico </item>
+        <item> Convencional </item>
+
+    </string-array>
+
+    <string-array name="Tipo_Actividad">
+        <item> Tipo de Actividad </item>
+        <item> Alojamiento </item>
+        <item> Al aire libre </item>
+        <item> Volcanes </item>
+        <item> Parque o Monumento Nacional </item>
+        <item> Senderismo </item>
+        <item> Kayak o Rafting </item>
+        <item> Canopy </item>
+        <item> Pesca </item>
+        <item> Cultura </item>
+
+    </string-array>
+
+    <string-array name="Tipo_Atractivo">
+        <item> Tipo de Atractivo </item>
+        <item> Bibliotecas </item>
+        <item> Galería de arte </item>
+        <item> Museos </item>
+        <item> Jardines Botánicos </item>
+        <item> Monumentos </item>
+        <item> Miradores </item>
+        <item> Hoteles </item>
+
+    </string-array>
+    <string name="title_activity_lugares">lugares</string>
+</resources>

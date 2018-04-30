@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sergio_pc.proyectoandroid.Sobre_Nosotros">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/turisteando"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="44dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Turisteando"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="204dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="354dp"
+        android:layout_height="91dp"
+        android:text="Aplicación para la recomendación de negocios o inversiones a empresarios e inversionistas (tour, operadores, agencias de viajes, dueños de sitios turisticos) "
+        android:textAlignment="center"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Teléfono: (506) 2256 30 94"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="357dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Correo electrónico:turisteando2018@gmail.com"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="389dp" />
+
+</android.support.constraint.ConstraintLayout>
